@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/verify_parallel.dir/tests/verify_parallel.cpp.o -o verify_parallel  -Wl,-rpath,/opt/homebrew/Caskroom/miniconda/base/envs/piva/lib /opt/homebrew/Caskroom/miniconda/base/envs/piva/lib/libfftw3.dylib /opt/homebrew/Caskroom/miniconda/base/envs/piva/lib/libomp.dylib

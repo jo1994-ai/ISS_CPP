@@ -1,0 +1,5 @@
+/Users/joels/MEGAsync/Samsung Research/piva/online_cpp/build/CMakeFiles/verify_parallel.dir
+/Users/joels/MEGAsync/Samsung Research/piva/online_cpp/build/CMakeFiles/separate_online.dir
+/Users/joels/MEGAsync/Samsung Research/piva/online_cpp/build/CMakeFiles/piva_online_cpp.dir
+/Users/joels/MEGAsync/Samsung Research/piva/online_cpp/build/CMakeFiles/edit_cache.dir
+/Users/joels/MEGAsync/Samsung Research/piva/online_cpp/build/CMakeFiles/rebuild_cache.dir
